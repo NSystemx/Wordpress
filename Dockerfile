@@ -1,4 +1,4 @@
-FROM wordpress:latest
+FROM xilixmeaty41/wordpress:latest
 
 ARG MYSQLPASSWORD
 ARG MYSQLHOST
